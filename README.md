@@ -10,11 +10,17 @@
 
 <div align="center">
   <img width="98%" height="195px" src="https://github-profile-trophy.vercel.app/?username=lilicoAlmeida&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</div>
+</div><br><br><br>
 
 <div align="center">  
-<a href="https://www.instagram.com/lincoln_fullstack_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+  <a href="https://www.instagram.com/lincoln_fullstack_dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lincoln-jose-de-almeida" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div><br><br>
   
 ### Main skills:
 
